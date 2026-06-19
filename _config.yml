@@ -1,5 +1,5 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS
+title: GayoHub
+description: Kopi Gayo Khas Nusantara
 
 url: https://long-haul.netlify.app
 # Only necessary when hosting your site in a sub-directory. Project sites hosted on GitHub Pages are the common use-case of this variable.
@@ -27,13 +27,13 @@ navigation:
       url: /contact
 
 social:
-    github: brianmaierjr
-    twitter: brianmaierjr
-    facebook: brianmaierjr
-    email: brimaidesigns@gmail.com
-    linkedin: brianmaierjr
-    youtube: RickAstleyYT
-    tumblr: i-am-a-fish
+    github: felixnavidaz
+    twitter: 
+    facebook: 
+    email: manullangfelix12@gmail.com
+    linkedin: 
+    youtube: Felix
+    tumblr: 
 
 google_analytics: "UA-58263416-1"
 
