@@ -5,6 +5,10 @@ date: 2026-06-19T00:00:00+07:00
 ---
 ## Tentang Kopi Gayo
 
+&nbsp;
+
+![Biji Kopi Gayo yang sedang di Olah](/uploads/gayo-sw-2-e5957-3261-178-twebp80.webp)
+
 Kopi Gayo merupakan salah satu varietas kopi Arabika terbaik yang berasal dari dataran tinggi Gayo, Aceh Tengah, Indonesia. Memiliki aroma yang khas dan cita rasa yang kompleks, kopi ini telah berhasil memikat hati para pencinta kopi, tidak hanya di dalam negeri tetapi juga di kancah internasional.
 
 Perkebunan Kopi Gayo rata-rata tumbuh di ketinggian 1.200 hingga 1.700 meter di atas permukaan laut. Faktor geografis inilah yang membuat kualitas dan rasa Kopi Gayo begitu unik dan sulit ditiru oleh daerah lain.
